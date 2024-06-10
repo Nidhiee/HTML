@@ -11,8 +11,8 @@
 
 <body>
     <div class="container">
-        <center><img src="https://jssstuniv.in/assets/img/logo/jssstulogo.png" alt="Your Photo" width="300"></center>
-        <h1 style="text-align: center;">Adi Sharan A</h1>
+        <center><img 
+        <h1 style="text-align: center;">Nidhie</h1>
         <p style="text-align: center;"><i>CSE</i></p>
         <hr>
         <div class="section">
@@ -23,8 +23,7 @@
                 <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/AdiSharanA"> Adi's LinkedIn</a> </p>
             </div>
             <div class="section">
-                <h2>Education</h2>
-                <p><strong>JSS Science and Technology University, Mysore</strong></p>
+             Mysore</strong></p>
                 <p><i>Computer Science and Engineering (2022-2025)</i></p>
                 <p><strong>CGPA:</strong> 8.2</p>
                 <p><strong>BASE PU College</strong></p>
